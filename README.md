@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Silvia and I am currently working at @proxectonos. I am mainly dealing with preprocessing and transformation of textual data, but also learning more about different NLP techniques as well as language modeling.
 
 <!--
 **silviapasuarez/silviapasuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
